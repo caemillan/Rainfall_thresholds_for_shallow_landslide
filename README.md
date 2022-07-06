@@ -6,4 +6,4 @@ La base de datos en este repositorio es la combinación de SENAMHI’s of Rainfa
 
 
 ### References
-Millan, C., W. Lavado-Casimiro (2022). SENAMHI’s of Rainfall-Triggered Shallow Landslides Inventory of Peru (SLIP), HydroShare, https://doi.org/10.4211/hs.a7eb980e1a0545b497cd1f1a1530590b, DOI for this published resource is pending activation.
+Millan, C., W. Lavado-Casimiro (2022). SENAMHI’s of Rainfall-Triggered Shallow Landslides Inventory of Peru (SLIP), HydroShare, https://doi.org/10.4211/hs.a7eb980e1a0545b497cd1f1a1530590b
